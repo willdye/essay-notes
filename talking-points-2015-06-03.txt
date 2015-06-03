@@ -1,0 +1,80 @@
+Talking points
+
+- Moore's law heuristic: 5yrs -> 10x, 10yrs -> 100x, more -> concierge
+  - Sooner or later things which happen sooner or later happen
+
+- Reassurance
+ - Leon Fuerth, met in 2002, upset, wrote "Forward Engagement" in 2012
+ - Lewis & Clark zone
+
+- Extending trend lines
+ - works pretty well considering lack of alternatives
+ 
+- Nature abhors an asymptote
+ - Sigmoids (s-curves), not singularities
+ - Even black holes
+ - I like Ray Kurzweil, but I wish he'd stop drawing half an S-curve
+
+- D-list (delineation list, or characteristic list)
+ - pattern: split off items that were usually grouped
+ - 3 wishes with the evil genie
+ - technology gives you more options to rearrage those lists
+ - The d-list approach helps with rigorous analysis & measurements
+
+- Definitions will get fuzzier
+ - avoid easy fallback of "that's the law" or "our policy"
+ - look for opportunities instead of debating terms
+ - good samaritan
+ - "a path forward" seems to add complexity by considering desires
+
+- Draw two lines instead of one (also seems to add complexity)
+ - printing money
+
+- Conciege prototyping:
+ - Step 1 to writing a program: step away from the computer
+ - Sat nav prototype: programmer with a map
+ - Big heath data prototype: assistant and expensive gadgets
+ - Avoid big-company habit of operational efficiency
+ - when calculating payoff, remember moore's law
+ - file a patent even if the payoff is remote (need negotiating chips)
+
+- Yes, you should file awful patents on obvious stuff
+ - I hate them too, but play the game the way the game is played
+ - sadly, there will be patents on every recording + application combo
+ - you need negotiating chips for patent-sharing deals
+ - (urinalysis, blood, etc) in {toilet, hand-held, etc) for (diabetes, etc)
+
+- Exercise video games
+ - 2k/yr
+ - Madonna Proactive, Mr. Wilkenson
+
+- Prevention = big payoff
+
+- Home urinalysis
+
+- Hudl 9 tabs
+ - 10x improvement, go for the low-hanging fruit
+
+- walking as example of big data diagnosis
+ - will people be afraid to walk slower?
+ - stress of feeling like being watched causes real harm
+ - mutual transparency - know what's collected, in detail, by whom
+
+- aggregation is a natural "winner take most" situation
+
+- ins. companies cannot win vs. the big data aggregators (google, apple)
+
+- only one way to keep power in check (split), all fit that pattern
+
+- distributed algorithmic delineation
+ - triangulation (inherent)
+
+- how to regulate?
+ - use transparency to separate recording from viewing
+ - use the grandfather clause a lot (preserve ability to move away)
+ 
+- exercises:
+ - What's the low-hanging fruit for preventative medicine?
+ - most expensive procedures - when could first be measured in principle?
+ - exercise video games
+ - start concierge tests right now
